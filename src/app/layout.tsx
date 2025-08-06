@@ -20,7 +20,7 @@ export default function RootLayout({
         <Navbar sticky="top" bg="body-tertiary">
           <Container>
             <NavbarBrand>
-              Calculadora de barra olímpica
+              Teste
             </NavbarBrand>
           </Container>
         </Navbar>
